@@ -1,5 +1,5 @@
-# generator-u9-iuap-imapp
-U9智能工厂iUAP mobile轻应用生成器
+# generator-umif-iuap-imapp
+智能工厂iUAP mobile轻应用生成器
 
 ## Usage
 
