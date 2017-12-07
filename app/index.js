@@ -18,7 +18,7 @@ module.exports = generators.Base.extend({
 
     prompting: function() {
         if (!this.options['skip-welcome-message']) {
-            this.log(yosay('\'Allo \'allo! Out of the box I include the base framework of U9ImApp to start your app.'));
+            this.log(yosay('\'Allo \'allo! Out of the box I include the base framework of UmifImApp to start your app.'));
         }
 
         var prompts = [{

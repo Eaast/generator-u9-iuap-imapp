@@ -1,7 +1,7 @@
 {
-  "name": "generator-u9-iuap-imapp",
+  "name": "generator-umif-iuap-imapp",
   "version": "1.0.9",
-  "description": "U9智能工厂iUAP mobile轻应用生成器",
+  "description": "智能工厂iUAP mobile轻应用生成器",
   "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
