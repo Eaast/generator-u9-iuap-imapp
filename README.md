@@ -10,9 +10,9 @@ U9智能工厂iUAP mobile轻应用生成器
 npm install -g yo
 ```
 
-##### Install `generator-u9-iuap-imapp`:
+##### Install `generator-umif-iuap-imapp`:
 ```
-npm install -g generator-u9-iuap-imapp
+npm install -g generator-umif-iuap-imapp
 ```
 
 
@@ -23,7 +23,7 @@ npm install -g generator-u9-iuap-imapp
 mkdir my-new-project && cd $_
 ```
 
-##### Run `yo u9-iuap-imapp`, and select desired configurations:
+##### Run `yo umif-iuap-imapp`, and select desired configurations:
 ```
-yo u9-iuap-imapp
+yo umif-iuap-imapp
 ```

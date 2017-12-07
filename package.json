@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/U9XXL/generator-u9-iuap-imapp.git"
+    "url": "https://github.com/Eaast/generator-umif-iuap-imapp.git"
   },
   "files": [
     "app"
@@ -18,7 +18,7 @@
   ],
   "author": "xuxle",
   "license": "ISC",
-  "homepage": "https://github.com/U9XXL/generator-u9-iuap-imapp",
+  "homepage": "https://github.com/Eaast/generator-umif-iuap-imapp",
   "dependencies": {
     "chalk": "^1.1.3",
     "mkdirp": "^0.5.1",

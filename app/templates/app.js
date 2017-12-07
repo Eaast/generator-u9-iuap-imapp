@@ -4,6 +4,7 @@ angular.module('<%= appId %>', [
     'ngCordova',
     'angularImBase',
     'ionicIm<%= appType %>',
+    'angularUmifComm',
 
     '<%= appId %>.controllers',
     '<%= appId %>.directives',
