@@ -14,9 +14,8 @@
     "ngCordova": "~0.1.24-alpha",
     "socket.io-client": "^1.4.8",
     "umifImBase": "https://github.com/Eaast/umifImBase.git",
-    "ionic-im-<%= appType %>": "http://172.20.4.139:10101/r/libraries/ionic-im-<%= appType %>.git",
-    "angular-im-base": "http://172.20.4.139:10101/r/libraries/angular-im-base.git",
-    "angular-umif-comm": "http://172.20.4.139:10101/r/libraries/angular-umif-comm.git"
+    "ionic-im-<%= appType %>": "http://123.103.9.196:1217/libraries/ionic-im-<%= appType %>.git",
+    "angular-im-base": "http://123.103.9.196:1217/libraries/angular-im-base.git"
   },
   "overrides": {
     "socket.io-client": {
