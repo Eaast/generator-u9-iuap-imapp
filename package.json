@@ -1,6 +1,6 @@
 {
   "name": "generator-umif-iuap-imapp",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "智能工厂iUAP mobile轻应用生成器",
   "main": "app/index.js",
   "scripts": {
